@@ -1,0 +1,70 @@
+
+.nav-color{
+    background-color:blue;
+    color:white;
+    font-size: medium;
+}
+.dropdown-menu{
+    background-color: orange;
+}
+.menu:hover{
+background: orange;
+border-radius: 4px;
+}
+
+.hidden{
+    color: black;
+}
+.logo{
+    display: flex;
+justify-content:space-around;
+align-items: center;
+  }
+.box1{
+    width: 80px;
+}
+.box1 img{
+    width:80px;
+    display: block;  
+}
+
+ 
+.box2{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-right: 15rem;
+}
+
+.menu li a:hover{
+    background-color: orange;
+    color:black;
+}
+.name{
+    font-size: large;
+    color:black;
+}
+
+.logo-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  width: 80%;
+}
+.logo-img img {
+  width: 100%;
+}
+.logo-img span {
+  font-size: 1vw;
+}
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul li{
+    width: 20%; 
+}
+ul li img{
+    width: 100%;
+}
